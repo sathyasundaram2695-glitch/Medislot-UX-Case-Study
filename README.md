@@ -11,8 +11,14 @@ Medi Slot – UX Case Study
 
     Medi-Slot-UX-Case-Study
 │
-├── README.md
-├── Prototype
-│   ├── MediSlot_Figma_Link.txt  https://www.figma.com/design/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=0-1&t=fO6Khub5ZDnoAGPf-1
-│   ├── prototype-demo  https://www.figma.com/proto/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=0-1&t=fO6Khub5ZDnoAGPf-1
-|   |__ Case study link-https://www.figma.com/design/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=105-6&t=fO6Khub5ZDnoAGPf-1
+    ├── README.md
+    ├── Prototype
+  │   ├── MediSlot_Figma_Link.txt https://www.figma.com/design/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=0-1&t=AZp8bodhTkE27ukP-1
+     │   ├── prototype-link https://www.figma.com/proto/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=0-1&t=AZp8bodhTkE27ukP-1
+     |   |__ Case study link-https://www.figma.com/design/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=105-6&t=AZp8bodhTkE27ukP-1
+         |__  Demo Video-https://drive.google.com/file/d/1mcqhOOioDv9qZ2vkEnyDE1_WYzrPzSxm/view?usp=drive_link
+         |__  Pitch Slide-https://www.figma.com/design/GNm0v7Pz6U1SsWKsnacazb/Untitled?node-id=147-572&t=AZp8bodhTkE27ukP-1
+
+
+        
+│
